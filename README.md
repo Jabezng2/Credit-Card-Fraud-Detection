@@ -2,7 +2,11 @@
 
 ## About
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on Credit card Fraud from 
-[Credit Card Transactions Fraud Detector Dataset](https://www.kaggle.com/datasets/kartik2112/fraud-detection?select=fraudTrain.csv). 
+a transaction dataset obtained from **Kaggle** 
+
+## Dataset 
+Due to the csv file size exceeding 100MB we are unable to upload it. 
+The hyperlink to the dataset we used is [Credit Card Transactions Fraud Detector Dataset](https://www.kaggle.com/datasets/kartik2112/fraud-detection?select=fraudTrain.csv). 
 
 ## Project Aim and Motivation
 The aim of our project is to leverage machine learning algorithms to accurately detect fraudulent credit card transactions to minimize 
